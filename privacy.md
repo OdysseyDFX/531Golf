@@ -16,6 +16,8 @@ This app does not use third-party services or SDKs that collect user data.
 ## Subscriptions
 All subscriptions and payments are processed by Apple through the App Store. The developer does not receive or have access to payment or billing information.
 
+Subscription status is managed using RevenueCat, which receives anonymous purchase and entitlement information from Apple solely for the purpose of determining subscription access within the app.
+
 ## Changes
 If this policy changes in the future, it will be updated on this page.
 
