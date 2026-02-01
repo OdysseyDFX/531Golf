@@ -19,6 +19,5 @@ All subscriptions and payments are processed by Apple through the App Store. The
 ## Changes
 If this policy changes in the future, it will be updated on this page.
 
-## Contact
 If you have questions about this policy, contact:
-your@email.address
+531golfapp@gmail.com
