@@ -1,8 +1,4 @@
----
-title: Support
-permalink: /support/
----
-
+yaml
 
 531 Golf is a scoring app for the Nines (5-3-1) golf game, built for 3-ball matches.
 
